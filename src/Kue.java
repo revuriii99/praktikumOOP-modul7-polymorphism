@@ -5,6 +5,6 @@ public abstract class Kue {
     public abstract double hitungHarga();
 
     public String toString(){
-        return "Nama: " + nama + "\nHargaL " + harga;
+        return "Nama: " + nama + "\nHarga: " + harga;
     }
 }
